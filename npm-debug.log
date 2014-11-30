@@ -1,0 +1,408 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files\\nodejs\\\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install',
+1 verbose cli   'netroute' ]
+2 info using npm@1.2.21
+3 info using node@v0.11.2
+4 verbose node symlink C:\Program Files\nodejs\\node.exe
+5 verbose read json C:\Users\Suraj Pandey\WebstormProjects\NodeJS_WebSTORM_Project\package.json
+6 warn package.json SampleApp@0.0.0 No repository field.
+7 warn package.json SampleApp@0.0.0 No readme data.
+8 verbose read json C:\Users\Suraj Pandey\WebstormProjects\NodeJS_WebSTORM_Project\node_modules\app.js\package.json
+9 verbose read json C:\Users\Suraj Pandey\WebstormProjects\NodeJS_WebSTORM_Project\node_modules\ejs\package.json
+10 verbose read json C:\Users\Suraj Pandey\WebstormProjects\NodeJS_WebSTORM_Project\node_modules\express\package.json
+11 verbose read json C:\Users\Suraj Pandey\WebstormProjects\NodeJS_WebSTORM_Project\node_modules\ipware\package.json
+12 verbose read json C:\Users\Suraj Pandey\WebstormProjects\NodeJS_WebSTORM_Project\node_modules\node-libnmap\package.json
+13 verbose read json C:\Users\Suraj Pandey\WebstormProjects\NodeJS_WebSTORM_Project\node_modules\OldFiles\package.json
+14 verbose read json C:\Users\Suraj Pandey\WebstormProjects\NodeJS_WebSTORM_Project\node_modules\routes\package.json
+15 verbose read json C:\Users\Suraj Pandey\WebstormProjects\NodeJS_WebSTORM_Project\node_modules\views\package.json
+16 verbose from cache C:\Users\Suraj Pandey\WebstormProjects\NodeJS_WebSTORM_Project\package.json
+17 verbose readDependencies using package.json deps
+18 verbose cache add [ 'netroute', null ]
+19 verbose cache add name=undefined spec="netroute" args=["netroute",null]
+20 verbose parsed url { protocol: null,
+20 verbose parsed url   slashes: null,
+20 verbose parsed url   auth: null,
+20 verbose parsed url   host: null,
+20 verbose parsed url   port: null,
+20 verbose parsed url   hostname: null,
+20 verbose parsed url   hash: null,
+20 verbose parsed url   search: null,
+20 verbose parsed url   query: null,
+20 verbose parsed url   pathname: 'netroute',
+20 verbose parsed url   path: 'netroute',
+20 verbose parsed url   href: 'netroute' }
+21 silly lockFile ba7ee92e-netroute netroute
+22 verbose lock netroute C:\Users\Suraj Pandey\AppData\Roaming\npm-cache\ba7ee92e-netroute.lock
+23 silly lockFile ba7ee92e-netroute netroute
+24 silly lockFile ba7ee92e-netroute netroute
+25 verbose addNamed [ 'netroute', '' ]
+26 verbose addNamed [ null, '' ]
+27 silly lockFile 87af1b7d-netroute netroute@
+28 verbose lock netroute@ C:\Users\Suraj Pandey\AppData\Roaming\npm-cache\87af1b7d-netroute.lock
+29 silly addNameRange { name: 'netroute', range: '', hasData: false }
+30 verbose url raw netroute
+31 verbose url resolving [ 'https://registry.npmjs.org/', './netroute' ]
+32 verbose url resolved https://registry.npmjs.org/netroute
+33 info trying registry request attempt 1 at 17:08:06
+34 http GET https://registry.npmjs.org/netroute
+35 http 200 https://registry.npmjs.org/netroute
+36 silly registry.get cb [ 200,
+36 silly registry.get   { date: 'Mon, 24 Nov 2014 01:08:06 GMT',
+36 silly registry.get     server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+36 silly registry.get     etag: '"DGKBKBJG1WVFJI5MQTA0IS10Y"',
+36 silly registry.get     'content-type': 'application/json',
+36 silly registry.get     'cache-control': 'max-age=60',
+36 silly registry.get     'content-length': '10671',
+36 silly registry.get     'accept-ranges': 'bytes',
+36 silly registry.get     via: '1.1 varnish',
+36 silly registry.get     age: '0',
+36 silly registry.get     'x-served-by': 'cache-lax1430-LAX',
+36 silly registry.get     'x-cache': 'MISS',
+36 silly registry.get     'x-cache-hits': '0',
+36 silly registry.get     'x-timer': 'S1416791286.402272,VS0,VE307',
+36 silly registry.get     vary: 'Accept',
+36 silly registry.get     'keep-alive': 'timeout=10, max=50',
+36 silly registry.get     connection: 'Keep-Alive' } ]
+37 silly addNameRange number 2 { name: 'netroute', range: '', hasData: true }
+38 silly addNameRange versions [ 'netroute',
+38 silly addNameRange   [ '0.0.1',
+38 silly addNameRange     '0.0.2',
+38 silly addNameRange     '0.1.0',
+38 silly addNameRange     '0.2.0',
+38 silly addNameRange     '0.2.1',
+38 silly addNameRange     '0.2.2',
+38 silly addNameRange     '0.2.3',
+38 silly addNameRange     '0.2.4',
+38 silly addNameRange     '0.2.5' ] ]
+39 verbose addNamed [ 'netroute', '0.2.5' ]
+40 verbose addNamed [ '0.2.5', '0.2.5' ]
+41 silly lockFile 9173a51f-netroute-0-2-5 netroute@0.2.5
+42 verbose lock netroute@0.2.5 C:\Users\Suraj Pandey\AppData\Roaming\npm-cache\9173a51f-netroute-0-2-5.lock
+43 silly lockFile 00f3101a--org-netroute-netroute-0-2-5-tgz https://registry.npmjs.org/netroute/-/netroute-0.2.5.tgz
+44 verbose lock https://registry.npmjs.org/netroute/-/netroute-0.2.5.tgz C:\Users\Suraj Pandey\AppData\Roaming\npm-cache\00f3101a--org-netroute-netroute-0-2-5-tgz.lock
+45 verbose addRemoteTarball [ 'https://registry.npmjs.org/netroute/-/netroute-0.2.5.tgz',
+45 verbose addRemoteTarball   '9cfe4031867dba62931ba354109d36dfb856de5d' ]
+46 info retry fetch attempt 1 at 17:08:06
+47 verbose fetch to= c:\Users\SURAJP~1\AppData\Local\Temp\npm-24204\1416791286760-0.5578246591612697\tmp.tgz
+48 http GET https://registry.npmjs.org/netroute/-/netroute-0.2.5.tgz
+49 http 200 https://registry.npmjs.org/netroute/-/netroute-0.2.5.tgz
+50 verbose chmod c:\Users\SURAJP~1\AppData\Local\Temp\npm-24204\netroute-0.2.51416791287066-0.6130683291703463\tmp.tgz 644
+51 verbose tar unpack c:\Users\SURAJP~1\AppData\Local\Temp\npm-24204\netroute-0.2.51416791287066-0.6130683291703463\tmp.tgz
+52 silly lockFile 2a01d2ca-87066-0-6130683291703463-package c:\Users\SURAJP~1\AppData\Local\Temp\npm-24204\netroute-0.2.51416791287066-0.6130683291703463\package
+53 verbose lock c:\Users\SURAJP~1\AppData\Local\Temp\npm-24204\netroute-0.2.51416791287066-0.6130683291703463\package C:\Users\Suraj Pandey\AppData\Roaming\npm-cache\2a01d2ca-87066-0-6130683291703463-package.lock
+54 silly lockFile af13fe42-87066-0-6130683291703463-tmp-tgz c:\Users\SURAJP~1\AppData\Local\Temp\npm-24204\netroute-0.2.51416791287066-0.6130683291703463\tmp.tgz
+55 verbose lock c:\Users\SURAJP~1\AppData\Local\Temp\npm-24204\netroute-0.2.51416791287066-0.6130683291703463\tmp.tgz C:\Users\Suraj Pandey\AppData\Roaming\npm-cache\af13fe42-87066-0-6130683291703463-tmp-tgz.lock
+56 silly gunzTarPerm modes [ '755', '644' ]
+57 silly gunzTarPerm extractEntry package.json
+58 silly gunzTarPerm extractEntry .npmignore
+59 silly gunzTarPerm extractEntry README.md
+60 silly gunzTarPerm extractEntry test/api-test.js
+61 silly gunzTarPerm extractEntry binding.gyp
+62 silly gunzTarPerm extractEntry .travis.yml
+63 silly gunzTarPerm extractEntry lib/netroute.js
+64 silly gunzTarPerm extractEntry src/netroute.cc
+65 silly gunzTarPerm extractEntry src/netroute.h
+66 silly gunzTarPerm extractEntry src/platform-linux.cc
+67 silly gunzTarPerm extractEntry src/platform-unix.cc
+68 silly gunzTarPerm extractEntry AUTHORS
+69 verbose read json c:\Users\SURAJP~1\AppData\Local\Temp\npm-24204\netroute-0.2.51416791287066-0.6130683291703463\package\package.json
+70 silly lockFile 2a01d2ca-87066-0-6130683291703463-package c:\Users\SURAJP~1\AppData\Local\Temp\npm-24204\netroute-0.2.51416791287066-0.6130683291703463\package
+71 silly lockFile 2a01d2ca-87066-0-6130683291703463-package c:\Users\SURAJP~1\AppData\Local\Temp\npm-24204\netroute-0.2.51416791287066-0.6130683291703463\package
+72 silly lockFile af13fe42-87066-0-6130683291703463-tmp-tgz c:\Users\SURAJP~1\AppData\Local\Temp\npm-24204\netroute-0.2.51416791287066-0.6130683291703463\tmp.tgz
+73 silly lockFile af13fe42-87066-0-6130683291703463-tmp-tgz c:\Users\SURAJP~1\AppData\Local\Temp\npm-24204\netroute-0.2.51416791287066-0.6130683291703463\tmp.tgz
+74 verbose from cache c:\Users\SURAJP~1\AppData\Local\Temp\npm-24204\netroute-0.2.51416791287066-0.6130683291703463\package\package.json
+75 verbose tar pack [ 'C:\\Users\\Suraj Pandey\\AppData\\Roaming\\npm-cache\\netroute\\0.2.5\\package.tgz',
+75 verbose tar pack   'c:\\Users\\SURAJP~1\\AppData\\Local\\Temp\\npm-24204\\netroute-0.2.51416791287066-0.6130683291703463\\package' ]
+76 verbose tarball C:\Users\Suraj Pandey\AppData\Roaming\npm-cache\netroute\0.2.5\package.tgz
+77 verbose folder c:\Users\SURAJP~1\AppData\Local\Temp\npm-24204\netroute-0.2.51416791287066-0.6130683291703463\package
+78 info prepublish netroute@0.2.5
+79 silly lockFile 2a01d2ca-87066-0-6130683291703463-package c:\Users\SURAJP~1\AppData\Local\Temp\npm-24204\netroute-0.2.51416791287066-0.6130683291703463\package
+80 verbose lock c:\Users\SURAJP~1\AppData\Local\Temp\npm-24204\netroute-0.2.51416791287066-0.6130683291703463\package C:\Users\Suraj Pandey\AppData\Roaming\npm-cache\2a01d2ca-87066-0-6130683291703463-package.lock
+81 silly lockFile 5b0d06d4-cache-netroute-0-2-5-package-tgz C:\Users\Suraj Pandey\AppData\Roaming\npm-cache\netroute\0.2.5\package.tgz
+82 verbose lock C:\Users\Suraj Pandey\AppData\Roaming\npm-cache\netroute\0.2.5\package.tgz C:\Users\Suraj Pandey\AppData\Roaming\npm-cache\5b0d06d4-cache-netroute-0-2-5-package-tgz.lock
+83 silly lockFile 2a01d2ca-87066-0-6130683291703463-package c:\Users\SURAJP~1\AppData\Local\Temp\npm-24204\netroute-0.2.51416791287066-0.6130683291703463\package
+84 silly lockFile 2a01d2ca-87066-0-6130683291703463-package c:\Users\SURAJP~1\AppData\Local\Temp\npm-24204\netroute-0.2.51416791287066-0.6130683291703463\package
+85 silly lockFile 5b0d06d4-cache-netroute-0-2-5-package-tgz C:\Users\Suraj Pandey\AppData\Roaming\npm-cache\netroute\0.2.5\package.tgz
+86 silly lockFile 5b0d06d4-cache-netroute-0-2-5-package-tgz C:\Users\Suraj Pandey\AppData\Roaming\npm-cache\netroute\0.2.5\package.tgz
+87 silly lockFile 8503d8b6-npm-cache-netroute-0-2-5-package c:\Users\Suraj Pandey\AppData\Roaming\npm-cache\netroute\0.2.5\package
+88 verbose lock c:\Users\Suraj Pandey\AppData\Roaming\npm-cache\netroute\0.2.5\package C:\Users\Suraj Pandey\AppData\Roaming\npm-cache\8503d8b6-npm-cache-netroute-0-2-5-package.lock
+89 silly lockFile 8503d8b6-npm-cache-netroute-0-2-5-package c:\Users\Suraj Pandey\AppData\Roaming\npm-cache\netroute\0.2.5\package
+90 silly lockFile 8503d8b6-npm-cache-netroute-0-2-5-package c:\Users\Suraj Pandey\AppData\Roaming\npm-cache\netroute\0.2.5\package
+91 verbose tar unpack C:\Users\Suraj Pandey\AppData\Roaming\npm-cache\netroute\0.2.5\package.tgz
+92 silly lockFile 8503d8b6-npm-cache-netroute-0-2-5-package c:\Users\Suraj Pandey\AppData\Roaming\npm-cache\netroute\0.2.5\package
+93 verbose lock c:\Users\Suraj Pandey\AppData\Roaming\npm-cache\netroute\0.2.5\package C:\Users\Suraj Pandey\AppData\Roaming\npm-cache\8503d8b6-npm-cache-netroute-0-2-5-package.lock
+94 silly lockFile 5b0d06d4-cache-netroute-0-2-5-package-tgz C:\Users\Suraj Pandey\AppData\Roaming\npm-cache\netroute\0.2.5\package.tgz
+95 verbose lock C:\Users\Suraj Pandey\AppData\Roaming\npm-cache\netroute\0.2.5\package.tgz C:\Users\Suraj Pandey\AppData\Roaming\npm-cache\5b0d06d4-cache-netroute-0-2-5-package-tgz.lock
+96 silly gunzTarPerm modes [ '755', '644' ]
+97 silly gunzTarPerm extractEntry package.json
+98 silly gunzTarPerm modified mode [ 'package.json', 438, 420 ]
+99 silly gunzTarPerm extractEntry .npmignore
+100 silly gunzTarPerm modified mode [ '.npmignore', 438, 420 ]
+101 silly gunzTarPerm extractEntry README.md
+102 silly gunzTarPerm modified mode [ 'README.md', 438, 420 ]
+103 silly gunzTarPerm extractEntry .travis.yml
+104 silly gunzTarPerm modified mode [ '.travis.yml', 438, 420 ]
+105 silly gunzTarPerm extractEntry AUTHORS
+106 silly gunzTarPerm modified mode [ 'AUTHORS', 438, 420 ]
+107 silly gunzTarPerm extractEntry binding.gyp
+108 silly gunzTarPerm modified mode [ 'binding.gyp', 438, 420 ]
+109 silly gunzTarPerm extractEntry lib/netroute.js
+110 silly gunzTarPerm modified mode [ 'lib/netroute.js', 438, 420 ]
+111 silly gunzTarPerm extractEntry src/netroute.cc
+112 silly gunzTarPerm modified mode [ 'src/netroute.cc', 438, 420 ]
+113 silly gunzTarPerm extractEntry src/netroute.h
+114 silly gunzTarPerm modified mode [ 'src/netroute.h', 438, 420 ]
+115 silly gunzTarPerm extractEntry src/platform-linux.cc
+116 silly gunzTarPerm modified mode [ 'src/platform-linux.cc', 438, 420 ]
+117 silly gunzTarPerm extractEntry src/platform-unix.cc
+118 silly gunzTarPerm modified mode [ 'src/platform-unix.cc', 438, 420 ]
+119 silly gunzTarPerm extractEntry test/api-test.js
+120 silly gunzTarPerm modified mode [ 'test/api-test.js', 438, 420 ]
+121 verbose read json c:\Users\Suraj Pandey\AppData\Roaming\npm-cache\netroute\0.2.5\package\package.json
+122 silly lockFile 8503d8b6-npm-cache-netroute-0-2-5-package c:\Users\Suraj Pandey\AppData\Roaming\npm-cache\netroute\0.2.5\package
+123 silly lockFile 8503d8b6-npm-cache-netroute-0-2-5-package c:\Users\Suraj Pandey\AppData\Roaming\npm-cache\netroute\0.2.5\package
+124 silly lockFile 5b0d06d4-cache-netroute-0-2-5-package-tgz C:\Users\Suraj Pandey\AppData\Roaming\npm-cache\netroute\0.2.5\package.tgz
+125 silly lockFile 5b0d06d4-cache-netroute-0-2-5-package-tgz C:\Users\Suraj Pandey\AppData\Roaming\npm-cache\netroute\0.2.5\package.tgz
+126 verbose from cache c:\Users\Suraj Pandey\AppData\Roaming\npm-cache\netroute\0.2.5\package\package.json
+127 verbose chmod C:\Users\Suraj Pandey\AppData\Roaming\npm-cache\netroute\0.2.5\package.tgz 644
+128 silly chown skipping for windows C:\Users\Suraj Pandey\AppData\Roaming\npm-cache\netroute\0.2.5\package.tgz
+129 silly lockFile 00f3101a--org-netroute-netroute-0-2-5-tgz https://registry.npmjs.org/netroute/-/netroute-0.2.5.tgz
+130 silly lockFile 00f3101a--org-netroute-netroute-0-2-5-tgz https://registry.npmjs.org/netroute/-/netroute-0.2.5.tgz
+131 silly lockFile 9173a51f-netroute-0-2-5 netroute@0.2.5
+132 silly lockFile 9173a51f-netroute-0-2-5 netroute@0.2.5
+133 silly lockFile 87af1b7d-netroute netroute@
+134 silly lockFile 87af1b7d-netroute netroute@
+135 silly resolved [ { name: 'netroute',
+135 silly resolved     version: '0.2.5',
+135 silly resolved     main: 'lib/netroute',
+135 silly resolved     author: { name: 'Fedor Indutny', email: 'fedor@indutny.com' },
+135 silly resolved     homepage: 'https://github.com/indutny/node-netroute',
+135 silly resolved     repository:
+135 silly resolved      { type: 'git',
+135 silly resolved        url: 'http://github.com/indutny/node-netroute.git' },
+135 silly resolved     dependencies: { bindings: '~1.0.0', nan: '^1.3.0' },
+135 silly resolved     devDependencies: { mocha: '~1.3.2' },
+135 silly resolved     scripts:
+135 silly resolved      { test: 'mocha --reporter spec test/*-test.js',
+135 silly resolved        install: 'node-gyp rebuild' },
+135 silly resolved     gypfile: true,
+135 silly resolved     contributors: [ [Object] ],
+135 silly resolved     readme: '# Netroute\n\nRoute table bindings for node.js\n\n## Usage\n\n```javascript\n// Get routes list\nrequire(\'netroute\').getInfo();\n/*\n Returns object:\n   {\n     "IPv4": [{\n        "destination": "0.0.0.0",\n        "gateway": "192.168.10.1",\n        "netmask": "124.0.5.4",\n        "mtu": 1500,\n        "rtt": 0,\n        "expire": 0,\n        "interface": "en1"\n     }, ...],\n     "IPv6": [{\n       ...\n     }, ...]\n   }\n\n  Note: fields may differ on different platforms\n  (though gateway, destination, netmask and interface should be always\n   available).\n*/\n\n\n// Get default gateway\nrequire(\'netroute\').getGateway(/* optional interface */); // 192.168.1.1\n```\n\n### License\n\nThis software is licensed under the MIT License.\n\nCopyright Fedor Indutny, 2012.\n\nPermission is hereby granted, free of charge, to any person obtaining a\ncopy of this software and associated documentation files (the\n"Software"), to deal in the Software without restriction, including\nwithout limitation the rights to use, copy, modify, merge, publish,\ndistribute, sublicense, and/or sell copies of the Software, and to permit\npersons to whom the Software is furnished to do so, subject to the\nfollowing conditions:\n\nThe above copyright notice and this permission notice shall be included\nin all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS\nOR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF\nMERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN\nNO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,\nDAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR\nOTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE\nUSE OR OTHER DEALINGS IN THE SOFTWARE.\n',
+135 silly resolved     readmeFilename: 'README.md',
+135 silly resolved     description: 'Route table bindings for node.js',
+135 silly resolved     bugs: { url: 'https://github.com/indutny/node-netroute/issues' },
+135 silly resolved     _id: 'netroute@0.2.5',
+135 silly resolved     dist: { shasum: 'd58fca9ed04677440a9bbe958c696b3af99e4e52' },
+135 silly resolved     _resolved: 'https://registry.npmjs.org/netroute/-/netroute-0.2.5.tgz',
+135 silly resolved     _from: 'netroute@' } ]
+136 info install netroute@0.2.5 into C:\Users\Suraj Pandey\WebstormProjects\NodeJS_WebSTORM_Project
+137 info installOne netroute@0.2.5
+138 verbose from cache c:\Users\Suraj Pandey\AppData\Roaming\npm-cache\netroute\0.2.5\package\package.json
+139 info C:\Users\Suraj Pandey\WebstormProjects\NodeJS_WebSTORM_Project\node_modules\netroute unbuild
+140 verbose read json C:\Users\Suraj Pandey\WebstormProjects\NodeJS_WebSTORM_Project\node_modules\netroute\package.json
+141 verbose tar unpack c:\Users\Suraj Pandey\AppData\Roaming\npm-cache\netroute\0.2.5\package.tgz
+142 silly lockFile 1b3b0209-RM-Project-node-modules-netroute C:\Users\Suraj Pandey\WebstormProjects\NodeJS_WebSTORM_Project\node_modules\netroute
+143 verbose lock C:\Users\Suraj Pandey\WebstormProjects\NodeJS_WebSTORM_Project\node_modules\netroute C:\Users\Suraj Pandey\AppData\Roaming\npm-cache\1b3b0209-RM-Project-node-modules-netroute.lock
+144 silly lockFile 3c9f89ff-cache-netroute-0-2-5-package-tgz c:\Users\Suraj Pandey\AppData\Roaming\npm-cache\netroute\0.2.5\package.tgz
+145 verbose lock c:\Users\Suraj Pandey\AppData\Roaming\npm-cache\netroute\0.2.5\package.tgz C:\Users\Suraj Pandey\AppData\Roaming\npm-cache\3c9f89ff-cache-netroute-0-2-5-package-tgz.lock
+146 silly gunzTarPerm modes [ '755', '644' ]
+147 silly gunzTarPerm extractEntry package.json
+148 silly gunzTarPerm modified mode [ 'package.json', 438, 420 ]
+149 silly gunzTarPerm extractEntry .npmignore
+150 silly gunzTarPerm modified mode [ '.npmignore', 438, 420 ]
+151 silly gunzTarPerm extractEntry README.md
+152 silly gunzTarPerm modified mode [ 'README.md', 438, 420 ]
+153 silly gunzTarPerm extractEntry .travis.yml
+154 silly gunzTarPerm modified mode [ '.travis.yml', 438, 420 ]
+155 silly gunzTarPerm extractEntry AUTHORS
+156 silly gunzTarPerm modified mode [ 'AUTHORS', 438, 420 ]
+157 silly gunzTarPerm extractEntry binding.gyp
+158 silly gunzTarPerm modified mode [ 'binding.gyp', 438, 420 ]
+159 silly gunzTarPerm extractEntry lib/netroute.js
+160 silly gunzTarPerm modified mode [ 'lib/netroute.js', 438, 420 ]
+161 silly gunzTarPerm extractEntry src/netroute.cc
+162 silly gunzTarPerm modified mode [ 'src/netroute.cc', 438, 420 ]
+163 silly gunzTarPerm extractEntry src/netroute.h
+164 silly gunzTarPerm modified mode [ 'src/netroute.h', 438, 420 ]
+165 silly gunzTarPerm extractEntry src/platform-linux.cc
+166 silly gunzTarPerm modified mode [ 'src/platform-linux.cc', 438, 420 ]
+167 silly gunzTarPerm extractEntry src/platform-unix.cc
+168 silly gunzTarPerm modified mode [ 'src/platform-unix.cc', 438, 420 ]
+169 silly gunzTarPerm extractEntry test/api-test.js
+170 silly gunzTarPerm modified mode [ 'test/api-test.js', 438, 420 ]
+171 verbose read json C:\Users\Suraj Pandey\WebstormProjects\NodeJS_WebSTORM_Project\node_modules\netroute\package.json
+172 silly lockFile 1b3b0209-RM-Project-node-modules-netroute C:\Users\Suraj Pandey\WebstormProjects\NodeJS_WebSTORM_Project\node_modules\netroute
+173 silly lockFile 1b3b0209-RM-Project-node-modules-netroute C:\Users\Suraj Pandey\WebstormProjects\NodeJS_WebSTORM_Project\node_modules\netroute
+174 silly lockFile 3c9f89ff-cache-netroute-0-2-5-package-tgz c:\Users\Suraj Pandey\AppData\Roaming\npm-cache\netroute\0.2.5\package.tgz
+175 silly lockFile 3c9f89ff-cache-netroute-0-2-5-package-tgz c:\Users\Suraj Pandey\AppData\Roaming\npm-cache\netroute\0.2.5\package.tgz
+176 info preinstall netroute@0.2.5
+177 verbose from cache C:\Users\Suraj Pandey\WebstormProjects\NodeJS_WebSTORM_Project\node_modules\netroute\package.json
+178 verbose readDependencies using package.json deps
+179 verbose from cache C:\Users\Suraj Pandey\WebstormProjects\NodeJS_WebSTORM_Project\node_modules\netroute\package.json
+180 verbose readDependencies using package.json deps
+181 verbose cache add [ 'bindings@~1.0.0', null ]
+182 verbose cache add name=undefined spec="bindings@~1.0.0" args=["bindings@~1.0.0",null]
+183 verbose parsed url { protocol: null,
+183 verbose parsed url   slashes: null,
+183 verbose parsed url   auth: null,
+183 verbose parsed url   host: null,
+183 verbose parsed url   port: null,
+183 verbose parsed url   hostname: null,
+183 verbose parsed url   hash: null,
+183 verbose parsed url   search: null,
+183 verbose parsed url   query: null,
+183 verbose parsed url   pathname: 'bindings@~1.0.0',
+183 verbose parsed url   path: 'bindings@~1.0.0',
+183 verbose parsed url   href: 'bindings@~1.0.0' }
+184 verbose cache add name="bindings" spec="~1.0.0" args=["bindings","~1.0.0"]
+185 verbose parsed url { protocol: null,
+185 verbose parsed url   slashes: null,
+185 verbose parsed url   auth: null,
+185 verbose parsed url   host: null,
+185 verbose parsed url   port: null,
+185 verbose parsed url   hostname: null,
+185 verbose parsed url   hash: null,
+185 verbose parsed url   search: null,
+185 verbose parsed url   query: null,
+185 verbose parsed url   pathname: '~1.0.0',
+185 verbose parsed url   path: '~1.0.0',
+185 verbose parsed url   href: '~1.0.0' }
+186 verbose addNamed [ 'bindings', '~1.0.0' ]
+187 verbose addNamed [ null, '>=1.0.0- <1.1.0-' ]
+188 silly lockFile ffec4ddc-bindings-1-0-0 bindings@~1.0.0
+189 verbose lock bindings@~1.0.0 C:\Users\Suraj Pandey\AppData\Roaming\npm-cache\ffec4ddc-bindings-1-0-0.lock
+190 verbose cache add [ 'nan@^1.3.0', null ]
+191 verbose cache add name=undefined spec="nan@^1.3.0" args=["nan@^1.3.0",null]
+192 verbose parsed url { protocol: null,
+192 verbose parsed url   slashes: null,
+192 verbose parsed url   auth: null,
+192 verbose parsed url   host: null,
+192 verbose parsed url   port: null,
+192 verbose parsed url   hostname: null,
+192 verbose parsed url   hash: null,
+192 verbose parsed url   search: null,
+192 verbose parsed url   query: null,
+192 verbose parsed url   pathname: 'nan@%5E1.3.0',
+192 verbose parsed url   path: 'nan@%5E1.3.0',
+192 verbose parsed url   href: 'nan@%5E1.3.0' }
+193 verbose cache add name="nan" spec="^1.3.0" args=["nan","^1.3.0"]
+194 verbose parsed url { protocol: null,
+194 verbose parsed url   slashes: null,
+194 verbose parsed url   auth: null,
+194 verbose parsed url   host: null,
+194 verbose parsed url   port: null,
+194 verbose parsed url   hostname: null,
+194 verbose parsed url   hash: null,
+194 verbose parsed url   search: null,
+194 verbose parsed url   query: null,
+194 verbose parsed url   pathname: '%5E1.3.0',
+194 verbose parsed url   path: '%5E1.3.0',
+194 verbose parsed url   href: '%5E1.3.0' }
+195 verbose addNamed [ 'nan', '^1.3.0' ]
+196 verbose addNamed [ null, null ]
+197 silly lockFile 2ff446b3-nan-1-3-0 nan@^1.3.0
+198 verbose lock nan@^1.3.0 C:\Users\Suraj Pandey\AppData\Roaming\npm-cache\2ff446b3-nan-1-3-0.lock
+199 silly addNameRange { name: 'bindings', range: '>=1.0.0- <1.1.0-', hasData: false }
+200 verbose url raw bindings
+201 verbose url resolving [ 'https://registry.npmjs.org/', './bindings' ]
+202 verbose url resolved https://registry.npmjs.org/bindings
+203 info trying registry request attempt 1 at 17:08:07
+204 http GET https://registry.npmjs.org/bindings
+205 info addNameTag [ 'nan', '^1.3.0' ]
+206 verbose url raw nan
+207 verbose url resolving [ 'https://registry.npmjs.org/', './nan' ]
+208 verbose url resolved https://registry.npmjs.org/nan
+209 info trying registry request attempt 1 at 17:08:07
+210 http GET https://registry.npmjs.org/nan
+211 http 200 https://registry.npmjs.org/bindings
+212 silly registry.get cb [ 200,
+212 silly registry.get   { date: 'Mon, 24 Nov 2014 01:08:07 GMT',
+212 silly registry.get     server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+212 silly registry.get     etag: '"6SJRISMK25A1UDWM33HHCDB3Q"',
+212 silly registry.get     'content-type': 'application/json',
+212 silly registry.get     'cache-control': 'max-age=60',
+212 silly registry.get     'content-length': '18313',
+212 silly registry.get     'accept-ranges': 'bytes',
+212 silly registry.get     via: '1.1 varnish',
+212 silly registry.get     age: '0',
+212 silly registry.get     'x-served-by': 'cache-lax1428-LAX',
+212 silly registry.get     'x-cache': 'HIT',
+212 silly registry.get     'x-cache-hits': '1',
+212 silly registry.get     'x-timer': 'S1416791287.344037,VS0,VE39',
+212 silly registry.get     vary: 'Accept',
+212 silly registry.get     'keep-alive': 'timeout=10, max=50',
+212 silly registry.get     connection: 'Keep-Alive' } ]
+213 http 200 https://registry.npmjs.org/nan
+214 silly registry.get cb [ 200,
+214 silly registry.get   { date: 'Mon, 24 Nov 2014 01:08:07 GMT',
+214 silly registry.get     server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+214 silly registry.get     etag: '"BASL4AHUZL2X9BYWJN23MGK84"',
+214 silly registry.get     'content-type': 'application/json',
+214 silly registry.get     'cache-control': 'max-age=60',
+214 silly registry.get     'content-length': '28553',
+214 silly registry.get     'accept-ranges': 'bytes',
+214 silly registry.get     via: '1.1 varnish',
+214 silly registry.get     age: '0',
+214 silly registry.get     'x-served-by': 'cache-lax1434-LAX',
+214 silly registry.get     'x-cache': 'HIT',
+214 silly registry.get     'x-cache-hits': '1',
+214 silly registry.get     'x-timer': 'S1416791287.345610,VS0,VE74',
+214 silly registry.get     vary: 'Accept',
+214 silly registry.get     'keep-alive': 'timeout=10, max=50',
+214 silly registry.get     connection: 'Keep-Alive' } ]
+215 silly addNameRange number 2 { name: 'bindings', range: '>=1.0.0- <1.1.0-', hasData: true }
+216 silly addNameRange versions [ 'bindings',
+216 silly addNameRange   [ '0.0.1',
+216 silly addNameRange     '0.1.0',
+216 silly addNameRange     '0.1.1',
+216 silly addNameRange     '0.2.0',
+216 silly addNameRange     '0.2.1',
+216 silly addNameRange     '0.2.2',
+216 silly addNameRange     '0.2.3',
+216 silly addNameRange     '0.2.4',
+216 silly addNameRange     '0.3.0',
+216 silly addNameRange     '0.4.0',
+216 silly addNameRange     '1.0.0',
+216 silly addNameRange     '1.1.0',
+216 silly addNameRange     '1.1.1',
+216 silly addNameRange     '1.2.0',
+216 silly addNameRange     '1.2.1' ] ]
+217 verbose addNamed [ 'bindings', '1.0.0' ]
+218 verbose addNamed [ '1.0.0', '1.0.0' ]
+219 silly lockFile f01e5454-bindings-1-0-0 bindings@1.0.0
+220 verbose lock bindings@1.0.0 C:\Users\Suraj Pandey\AppData\Roaming\npm-cache\f01e5454-bindings-1-0-0.lock
+221 silly lockFile 2ff446b3-nan-1-3-0 nan@^1.3.0
+222 silly lockFile 2ff446b3-nan-1-3-0 nan@^1.3.0
+223 silly lockFile ccf0f56a--org-bindings-bindings-1-0-0-tgz https://registry.npmjs.org/bindings/-/bindings-1.0.0.tgz
+224 verbose lock https://registry.npmjs.org/bindings/-/bindings-1.0.0.tgz C:\Users\Suraj Pandey\AppData\Roaming\npm-cache\ccf0f56a--org-bindings-bindings-1-0-0-tgz.lock
+225 verbose about to build C:\Users\Suraj Pandey\WebstormProjects\NodeJS_WebSTORM_Project\node_modules\netroute
+226 info C:\Users\Suraj Pandey\WebstormProjects\NodeJS_WebSTORM_Project\node_modules\netroute unbuild
+227 verbose from cache C:\Users\Suraj Pandey\WebstormProjects\NodeJS_WebSTORM_Project\node_modules\netroute\package.json
+228 info preuninstall netroute@0.2.5
+229 verbose addRemoteTarball [ 'https://registry.npmjs.org/bindings/-/bindings-1.0.0.tgz',
+229 verbose addRemoteTarball   'c3ccde60e9de6807c6f1aa4ef4843af29191c828' ]
+230 info uninstall netroute@0.2.5
+231 info retry fetch attempt 1 at 17:08:07
+232 verbose fetch to= c:\Users\SURAJP~1\AppData\Local\Temp\npm-24204\1416791287457-0.49839327903464437\tmp.tgz
+233 verbose true,C:\Users\Suraj Pandey\WebstormProjects\NodeJS_WebSTORM_Project\node_modules,C:\Users\Suraj Pandey\WebstormProjects\NodeJS_WebSTORM_Project\node_modules unbuild netroute@0.2.5
+234 info postuninstall netroute@0.2.5
+235 http GET https://registry.npmjs.org/bindings/-/bindings-1.0.0.tgz
+236 error Error: No compatible version found: nan@'^1.3.0'
+236 error Valid install targets:
+236 error ["0.3.0-wip","0.3.0-wip2","0.3.0","0.3.1","0.3.2","0.4.0","0.4.1","0.4.2","0.4.3","0.4.4","0.5.0","0.5.1","0.5.2","0.6.0","0.7.0","0.7.1","0.8.0","1.0.0","1.1.0","1.1.1","1.1.2","1.2.0","1.3.0","1.4.0","1.4.1"]
+236 error     at installTargetsError (C:\Program Files\nodejs\node_modules\npm\lib\cache.js:709:10)
+236 error     at C:\Program Files\nodejs\node_modules\npm\lib\cache.js:631:10
+236 error     at saved (C:\Program Files\nodejs\node_modules\npm\node_modules\npm-registry-client\lib\get.js:138:7)
+236 error     at Object.oncomplete (fs.js:94:15)
+237 error If you need help, you may report this log at:
+237 error     <http://github.com/isaacs/npm/issues>
+237 error or email it to:
+237 error     <npm-@googlegroups.com>
+238 error System Windows_NT 6.1.7601
+239 error command "C:\\Program Files\\nodejs\\\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install" "netroute"
+240 error cwd C:\Users\Suraj Pandey\WebstormProjects\NodeJS_WebSTORM_Project
+241 error node -v v0.11.2
+242 error npm -v 1.2.21
+243 verbose exit [ 1, true ]
