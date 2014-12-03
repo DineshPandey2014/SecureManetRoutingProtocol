@@ -44,21 +44,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="serverThreeTemplate.ejs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="serverThreeTemplate.ejs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/node_modules/views/serverThreeTemplate.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4987775" vertical-offset="0" max-vertical-offset="1003">
-              <caret line="12" column="59" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="baseTemplate.ejs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_modules/views/baseTemplate.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="1241">
-              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="61" />
+            <state vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="1003">
+              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -79,6 +69,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-11.958333" vertical-offset="55" max-vertical-offset="969">
               <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="baseTemplate.ejs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/node_modules/views/baseTemplate.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.041564792" vertical-offset="187" max-vertical-offset="1241">
+              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -122,8 +122,8 @@
         <option value="$PROJECT_DIR$/node_modules/OldFiles/serverNodeFour.js" />
         <option value="$PROJECT_DIR$/node_modules/appserverThree.js" />
         <option value="$PROJECT_DIR$/node_modules/app.js" />
-        <option value="$PROJECT_DIR$/node_modules/views/baseTemplate.ejs" />
         <option value="$PROJECT_DIR$/node_modules/views/serverThreeTemplate.ejs" />
+        <option value="$PROJECT_DIR$/node_modules/views/baseTemplate.ejs" />
       </list>
     </option>
   </component>
@@ -342,10 +342,10 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.serverNodeFour.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.appserverThree.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.serverNodeTwo.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.app.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.app.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.serverNodeTwo.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.appserverThree.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.serverNodeFour.js" />
         <item index="4" class="java.lang.String" itemvalue="Node.js.serverNodeThree.js" />
       </list>
     </recent_temporary>
@@ -721,14 +721,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/OldFiles/serverNodeTwo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.958333" vertical-offset="55" max-vertical-offset="969">
-          <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/OldFiles/serverNodeFour.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="247" max-vertical-offset="680">
@@ -737,18 +729,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/app.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/OldFiles/serverNodeTwo.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-26.5625" vertical-offset="0" max-vertical-offset="2329">
-          <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+        <state vertical-scroll-proportion="-11.958333" vertical-offset="55" max-vertical-offset="969">
+          <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/views/baseTemplate.ejs">
+    <entry file="file://$PROJECT_DIR$/node_modules/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="1241">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="61" />
+        <state vertical-scroll-proportion="-26.5625" vertical-offset="0" max-vertical-offset="2329">
+          <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -763,8 +755,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/views/serverThreeTemplate.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4987775" vertical-offset="0" max-vertical-offset="1003">
-          <caret line="12" column="59" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+        <state vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="1003">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/views/baseTemplate.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.041564792" vertical-offset="187" max-vertical-offset="1241">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
           <folding />
         </state>
       </provider>
