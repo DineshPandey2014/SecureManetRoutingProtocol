@@ -27,8 +27,8 @@
       <file leaf-file-name="nodeOne.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/node_modules/nodeOne.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.1666667" vertical-offset="2684" max-vertical-offset="3689">
-              <caret line="164" column="0" selection-start-line="164" selection-start-column="0" selection-end-line="168" selection-end-column="3" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="1638" max-vertical-offset="3638">
+              <caret line="89" column="28" selection-start-line="89" selection-start-column="28" selection-end-line="89" selection-end-column="28" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -36,11 +36,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nodeThree.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="nodeThree.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/node_modules/nodeThree.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="6.95664" vertical-offset="0" max-vertical-offset="2805">
-              <caret line="151" column="62" selection-start-line="151" selection-start-column="62" selection-end-line="151" selection-end-column="62" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="359" max-vertical-offset="2805">
+              <caret line="66" column="19" selection-start-line="66" selection-start-column="4" selection-end-line="66" selection-end-column="19" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -48,22 +48,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="serverNodeTwo.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_modules/OldFiles/serverNodeTwo.js">
+      <file leaf-file-name="nodeFour.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/node_modules/IntermediateNode/nodeFour.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="348" max-vertical-offset="969">
-              <caret line="35" column="3" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
-              <folding />
+            <state vertical-scroll-proportion="0.6666667" vertical-offset="385" max-vertical-offset="850">
+              <caret line="37" column="82" selection-start-line="37" selection-start-column="82" selection-end-line="37" selection-end-column="82" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="serverNodeFour.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_modules/OldFiles/serverNodeFour.js">
+      <file leaf-file-name="nodeTwo.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/IntermediateNode/nodeTwo.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
-              <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-              <folding />
+            <state vertical-scroll-proportion="0.0" vertical-offset="386" max-vertical-offset="1292">
+              <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -100,7 +104,6 @@
         <option value="$PROJECT_DIR$/node_modules/OldFiles/serverOne.js" />
         <option value="$PROJECT_DIR$/node_modules/OldFiles/server.js" />
         <option value="$PROJECT_DIR$/node_modules/views/default.ejs" />
-        <option value="$PROJECT_DIR$/node_modules/OldFiles/serverNodeTwo.js" />
         <option value="$PROJECT_DIR$/node_modules/OldFiles/serverNodeThree.js" />
         <option value="$PROJECT_DIR$/node_modules/OldFiles/serverNodeThreee.js" />
         <option value="$PROJECT_DIR$/node_modules/OldFiles/serverNodeFour.js" />
@@ -110,6 +113,9 @@
         <option value="$PROJECT_DIR$/node_modules/appserverThree.js" />
         <option value="$PROJECT_DIR$/node_modules/nodeOne.js" />
         <option value="$PROJECT_DIR$/node_modules/nodeThree.js" />
+        <option value="$PROJECT_DIR$/node_modules/OldFiles/serverNodeTwo.js" />
+        <option value="$PROJECT_DIR$/node_modules/IntermediateNode/serverNodeTwo.js" />
+        <option value="$PROJECT_DIR$/node_modules/IntermediateNode/nodeFour.js" />
       </list>
     </option>
   </component>
@@ -145,7 +151,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -192,30 +197,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NodeJS_WebSTORM_Project" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SecureManetRoutingProtocol" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OldFiles" />
+              <option name="myItemId" value="IntermediateNode" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -240,42 +228,36 @@
       <recent name="C:\Users\Suraj Pandey\WebstormProjects\NodeJS_WebSTORM_Project\node_modules\OldFiles" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.nodeOne.js">
-    <configuration default="false" name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/node_modules">
-      <RunnerSettings RunnerId="Basic" />
-      <RunnerSettings RunnerId="debuggableProgram" />
-      <ConfigurationWrapper RunnerId="Basic" />
-      <ConfigurationWrapper RunnerId="debuggableProgram" />
-      <method />
-    </configuration>
-    <configuration default="false" name="serverNodeTwo.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="serverNodeTwo.js" working-dir="$PROJECT_DIR$/node_modules/OldFiles">
-      <RunnerSettings RunnerId="Basic" />
-      <ConfigurationWrapper RunnerId="Basic" />
-      <method />
-    </configuration>
-    <configuration default="false" name="serverNodeFour.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="serverNodeFour.js" working-dir="$PROJECT_DIR$/node_modules/OldFiles">
-      <RunnerSettings RunnerId="Basic" />
-      <ConfigurationWrapper RunnerId="Basic" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.nodeFour.js">
     <configuration default="false" name="nodeThree.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="nodeThree.js" working-dir="$PROJECT_DIR$/node_modules">
       <RunnerSettings RunnerId="Basic" />
       <ConfigurationWrapper RunnerId="Basic" />
       <method />
     </configuration>
-    <configuration default="false" name="nodeOne.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="nodeOne.js" working-dir="$PROJECT_DIR$/node_modules">
+    <configuration default="false" name="serverNodeTwo.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="serverNodeTwo.js" working-dir="$PROJECT_DIR$/node_modules/IntermediateNode">
       <RunnerSettings RunnerId="Basic" />
       <ConfigurationWrapper RunnerId="Basic" />
       <method />
     </configuration>
-    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+    <configuration default="false" name="serverNodeFour.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="serverNodeFour.js" working-dir="$PROJECT_DIR$/node_modules/IntermediateNode">
+      <RunnerSettings RunnerId="Basic" />
+      <ConfigurationWrapper RunnerId="Basic" />
+      <method />
+    </configuration>
+    <configuration default="false" name="nodeTwo.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="nodeTwo.js" working-dir="$PROJECT_DIR$/node_modules/IntermediateNode">
+      <RunnerSettings RunnerId="Basic" />
+      <ConfigurationWrapper RunnerId="Basic" />
+      <method />
+    </configuration>
+    <configuration default="false" name="nodeFour.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="nodeFour.js" working-dir="$PROJECT_DIR$/node_modules/IntermediateNode">
+      <RunnerSettings RunnerId="Basic" />
+      <ConfigurationWrapper RunnerId="Basic" />
       <method />
     </configuration>
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <method />
     </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
-      <envs />
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -283,6 +265,10 @@
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -320,19 +306,19 @@
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Node.js.test.js" />
       <item index="1" class="java.lang.String" itemvalue="Node.js.testOne.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.app.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.serverNodeTwo.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.serverNodeFour.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.nodeThree.js" />
-      <item index="6" class="java.lang.String" itemvalue="Node.js.nodeOne.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.nodeThree.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.serverNodeTwo.js (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.serverNodeFour.js (1)" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.nodeTwo.js" />
+      <item index="6" class="java.lang.String" itemvalue="Node.js.nodeFour.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.nodeOne.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.serverNodeTwo.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.nodeFour.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.nodeTwo.js" />
         <item index="2" class="java.lang.String" itemvalue="Node.js.nodeThree.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.serverNodeFour.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.app.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.serverNodeFour.js (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.serverNodeTwo.js (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -371,7 +357,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3592233" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -380,7 +366,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18302724" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5613772" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3855756" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.38973647" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3844086" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -690,24 +676,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/OldFiles/serverNodeThree.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/IntermediateNode/serverNodeThree.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.96022725" vertical-offset="694" max-vertical-offset="1258">
           <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/OldFiles/serverNodeThreee.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/IntermediateNode/serverNodeThreee.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.16859123" vertical-offset="216" max-vertical-offset="1309">
           <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/views/nodeThree.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="1003">
-          <caret line="8" column="66" selection-start-line="8" selection-start-column="66" selection-end-line="8" selection-end-column="66" />
         </state>
       </provider>
     </entry>
@@ -740,26 +719,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/OldFiles/serverNodeFour.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/views/nodeThree.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="81" max-vertical-offset="680">
-          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="1003">
+          <caret line="8" column="66" selection-start-line="8" selection-start-column="66" selection-end-line="8" selection-end-column="66" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/OldFiles/serverNodeTwo.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/IntermediateNode/nodeTwo.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="461" max-vertical-offset="969">
-          <caret line="35" column="3" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1292">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/nodeOne.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.1666667" vertical-offset="2684" max-vertical-offset="3689">
-          <caret line="164" column="0" selection-start-line="164" selection-start-column="0" selection-end-line="168" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="1234" max-vertical-offset="3638">
+          <caret line="89" column="28" selection-start-line="89" selection-start-column="28" selection-end-line="89" selection-end-column="28" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -768,8 +748,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/nodeThree.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="6.95664" vertical-offset="0" max-vertical-offset="2805">
-          <caret line="151" column="62" selection-start-line="151" selection-start-column="62" selection-end-line="151" selection-end-column="62" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="1104" max-vertical-offset="2805">
+          <caret line="66" column="19" selection-start-line="66" selection-start-column="4" selection-end-line="66" selection-end-column="19" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/IntermediateNode/nodeFour.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6666667" vertical-offset="385" max-vertical-offset="850">
+          <caret line="37" column="82" selection-start-line="37" selection-start-column="82" selection-end-line="37" selection-end-column="82" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
