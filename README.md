@@ -6,12 +6,10 @@ Team_26
 
 CONTENTS
 I.	HOW TO START THE App
-II.     HOW TO USE THE APP
-II.	Software Requirements
-III.    Browser Supported
-IV.	App deployment.
-
-
+II. HOW TO USE THE APP
+II. Software Requirements
+III. Browser Supported
+IV. App deployment.
 
 I. HOW TO START THE App.
 Windows/Macintosh/Linux/AWS
@@ -20,7 +18,6 @@ Windows/Macintosh/Linux/AWS
 2. Run nodeThree.js (# Destination node)
 3. Run nodeFour.js  (# Intermediate node)
 4. Run nodeTwo.js   (# Intermediate node)
-
 
 II. HOW TO USE THE APP
 1. How to access the NodeOne: URL:http://<localhost>:3000/
