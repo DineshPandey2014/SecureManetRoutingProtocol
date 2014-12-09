@@ -5,11 +5,11 @@ Team_26
 
 
 CONTENTS
-I.	HOW TO START THE App
-II. HOW TO USE THE APP
-II. Software Requirements
-III. Browser Supported
-IV. App deployment.
+1.	HOW TO START THE App
+2. HOW TO USE THE APP
+3. Software Requirements
+4. Browser Supported
+5. App deployment.
 
 I. HOW TO START THE App.
 Windows/Macintosh/Linux/AWS
