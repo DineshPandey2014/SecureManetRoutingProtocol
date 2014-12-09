@@ -5,11 +5,11 @@ Team_26
 
 
 CONTENTS
-1.	HOW TO START THE App
-2. HOW TO USE THE APP
-3. Software Requirements
-4. Browser Supported
-5. App deployment.
+I.	HOW TO START THE App
+II. HOW TO USE THE APP
+III. Software Requirements
+IV. Browser Supported
+V. App deployment.
 
 I. HOW TO START THE App.
 Windows/Macintosh/Linux/AWS
@@ -31,8 +31,7 @@ II. HOW TO USE THE APP
 3. NodeTwo will act as intermediate node there is no UI, only server side code.
 4. NodeFour will act as intermediate node there is no UI only server side code.
 
-
-II  Software Requirements
+III  Software Requirements
 
 1. Node.js Download Link: http://nodejs.org/
 2. Install npm and node using the node.js installer.
@@ -45,10 +44,10 @@ II  Software Requirements
 9. Install mongo DB LINK http://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/#install-mongodb
 
 
-III.  Browser Supported
+IV.  Browser Supported
 1. All browser are supported.
 
-IV  App deployment.
+V  App deployment.
 
 1. Tested in AWS
 2. Hotspot
