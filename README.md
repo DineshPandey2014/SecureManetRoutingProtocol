@@ -20,13 +20,13 @@ Windows/Macintosh/Linux/AWS
 4. Run nodeTwo.js   (# Intermediate node)
 
 II. HOW TO USE THE APP
-1. How to access the NodeOne: URL:http://<localhost>:3000/
+1. How to access the NodeOne: URL:http://IPADDRESS:3000/
    Enter the data in the sender node text area.
    Press the button send.
    Refresh the page, you will see the acknowledgment. Success or Error
    Success: Means data is send successfully from NodeOne to NodeThree via NodeTwo
    Error: Here node four will hack the data which we send from NodeOne to NodeThree via NodeFour.      
-2. How to access the NodeThree: URL:http://<localhost>:2000/
+2. How to access the NodeThree: URL:http://IPADDRESS:2000/
    NodeThree will receive the data from NodeOne via intermediate node (NodeTwo, NodeFour).
 3. NodeTwo will act as intermediate node there is no UI, only server side code.
 4. NodeFour will act as intermediate node there is no UI only server side code.
